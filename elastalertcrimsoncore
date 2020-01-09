@@ -4,7 +4,7 @@
 
 FROM alpine
 
-LABEL maintainer="Ivan Krizsan, https://github.com/krizsan"
+LABEL maintainer="Luk Schoonaert, https://github.com/gnomefish/"
 
 # Set this environment variable to True to set timezone on container start.
 ENV SET_CONTAINER_TIMEZONE False
